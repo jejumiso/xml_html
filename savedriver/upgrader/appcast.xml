@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>제주빨래방 업그레이더</title>
+        <item>
+            <title>Version 1.0.20</title>
+            <description>업데이트가되었습니다.</description>
+            <pubDate>Tue, 25 Jul 2023 13:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.hjy.jejuwashclothes" sparkle:version="1.0.21" sparkle:os="android" />
+        </item>
+         <item>
+            <title>Version 1.0.0</title>
+            <description>업데이트가되었습니다.</description>
+            <pubDate>Tue, 25 Jul 2023 13:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/제주빨래방/id6484402404" sparkle:version="1.0.21" sparkle:os="iOS" />
+        </item>
+    </channel>
+</rss>
