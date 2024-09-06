@@ -25,7 +25,7 @@
                 https://your_domain/your_path/release_notes.html
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
-            <enclosure url="2.0.0+2/autoupdate4-2.0.0+2-windows-setup.exe"
+            <enclosure url="https://jejumiso.github.io/xml_html/namwonbombom/upgrader/pc/2.0.0+2/autoupdate4-2.0.0+2-windows-setup.exe"
                        sparkle:dsaSignature="MDwCHD6XaY3mFEYiSX/eUCP2HA3nhaeiv+OkvbxAtUUCHFnQxXmlM7OOoys768xde1phT1eUKaSbmjxNDuw="
                        sparkle:version="2.0.0+2"
                        sparkle:os="windows"
